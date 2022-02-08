@@ -1,5 +1,4 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats-i0b47sb3q-amaz1none.vercel.app/api?username=amaz1none&count_private=true&include_all_commits=true)
+
 
      
 <!--
